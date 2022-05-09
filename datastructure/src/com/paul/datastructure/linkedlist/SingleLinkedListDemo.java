@@ -71,6 +71,11 @@ public class SingleLinkedListDemo {
 
     }
 
+    // 
+    public void mergeOrderLinkedList(HeroNode h1, HeroNode h2) {
+
+    }
+
     //方式2：
     //可以利用栈这个数据结构，将各个节点压入到栈中，然后利用栈的先进后出的特点，就实现了逆序打印的效果
     public static void reversePrint(HeroNode head) {
