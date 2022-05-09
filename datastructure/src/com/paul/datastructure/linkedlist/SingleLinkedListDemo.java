@@ -71,7 +71,7 @@ public class SingleLinkedListDemo {
 
     }
 
-    // 合并两个有序的单链表，合并之后的链表依然有序
+    // 合并两个有序的单链表，合并之后的链表依然有序（创建一个链表）
     public void mergeOrderLinkedList(HeroNode h1, HeroNode h2) {
 
     }
