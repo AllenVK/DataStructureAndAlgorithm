@@ -8,7 +8,7 @@ import java.util.Date;
  * @Date: 2022-05-22 14:19
  * @Author: paul
  */
-public class BubbleSort {
+public class BubbleSorting {
 
     public static void main(String[] args) {
 //		int arr[] = {3, 9, -1, 10, 20};
