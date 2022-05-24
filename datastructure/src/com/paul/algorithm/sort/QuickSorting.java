@@ -65,6 +65,7 @@ public class QuickSorting {
             arr[l] = arr[r];
             arr[r] = temp;
 
+            // 防止栈溢出
             //如果交换完后，发现这个arr[l] == pivot值 相等 r--， 前移
             if (arr[l] == pivot) {
                 r -= 1;
