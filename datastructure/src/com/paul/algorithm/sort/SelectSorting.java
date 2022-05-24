@@ -4,7 +4,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
- * @Desc: 选择排序
+ * @Desc: 选择排序算法
  * @Date: 2022-05-22 15:14
  * @Author: paul
  */
