@@ -22,7 +22,7 @@ public class SeqSearching {
     /**
      * 顺序(线性)查找方法
      * 当前是实现：找到一个满足条件的值，就返回（不支持查找多个相同的值）
-     * @param arr 给定的无序集合
+     * @param arr 给定的集合(可以有序，也可以无序)
      * @param value 要查找的值
      */
     public static int seqSearch(int[] arr, int value) {
