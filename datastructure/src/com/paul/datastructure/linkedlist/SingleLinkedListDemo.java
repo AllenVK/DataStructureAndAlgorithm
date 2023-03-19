@@ -97,7 +97,7 @@ public class SingleLinkedListDemo {
     }
 
     //将单链表反转
-    public static void reversetList(HeroNode head) {
+    public static void reverseList(HeroNode head) {
         //如果当前链表为空，或者只有一个节点，无需反转，直接返回
         if(head.next == null || head.next.next == null) {
             return ;
